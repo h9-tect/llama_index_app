@@ -1,0 +1,12 @@
+streamlit
+llama-index-llms-huggingface
+llama-index-embeddings-huggingface
+transformers
+accelerate
+bitsandbytes
+llama-index
+llama-index-core==0.10.6.post1
+llama-index-postprocessor-flag-embedding-reranker
+git+https://github.com/FlagOpen/FlagEmbedding.git
+llama-parse
+torch
